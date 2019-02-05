@@ -1,8 +1,8 @@
 #!/bin/bash
 
-FIXBUF=2.0.0
+FIXBUF=2.2.0
 YAF=2.10.0
-SILK=3.17.1
+SILK=3.18.0
 
 apt -y install libgnutls28-dev doxygen libglib2.0-dev libpcap-dev python-dev build-essential
 
